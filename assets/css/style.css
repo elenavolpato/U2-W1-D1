@@ -219,6 +219,7 @@ aside section {
     display: inline-flex;
     width: 100%;
     align-items: center;
+    padding: 1.5em;
   }
 
   header div {
@@ -226,6 +227,10 @@ aside section {
     display: inline-flex;
     margin: auto;
     align-items: center;
+  }
+
+  header div img {
+    margin-bottom: 0;
   }
 
   header nav {
